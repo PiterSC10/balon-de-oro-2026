@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 820" role="img" aria-labelledby="t d">
+<title id="t">Trofeo dorado editorial</title>
+<desc id="d">Ilustración original inspirada en un balón dorado sobre una base rocosa.</desc>
+<defs>
+  <radialGradient id="g" cx="32%" cy="24%" r="72%">
+    <stop offset="0" stop-color="#fff8d0"/>
+    <stop offset=".16" stop-color="#ffe892"/>
+    <stop offset=".43" stop-color="#e9b23c"/>
+    <stop offset=".72" stop-color="#a96d09"/>
+    <stop offset="1" stop-color="#402500"/>
+  </radialGradient>
+  <linearGradient id="r" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#71727b"/>
+    <stop offset=".45" stop-color="#2f3037"/>
+    <stop offset="1" stop-color="#0e0f13"/>
+  </linearGradient>
+  <linearGradient id="m" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#593500"/>
+    <stop offset=".23" stop-color="#c98d21"/>
+    <stop offset=".52" stop-color="#fff0a6"/>
+    <stop offset=".8" stop-color="#9c6209"/>
+    <stop offset="1" stop-color="#3d2300"/>
+  </linearGradient>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%">
+    <feDropShadow dx="0" dy="26" stdDeviation="26" flood-color="#000" flood-opacity=".62"/>
+  </filter>
+</defs>
+<g filter="url(#shadow)">
+  <circle cx="300" cy="275" r="194" fill="url(#g)"/>
+  <path d="M168 176 Q305 119 425 192 M129 281 Q309 331 471 249 M186 397 Q319 286 435 379" fill="none" stroke="#4b2b00" stroke-opacity=".42" stroke-width="9"/>
+  <path d="M206 106 Q286 220 258 454 M395 121 Q311 225 337 458" fill="none" stroke="#6b3e00" stroke-opacity=".28" stroke-width="7"/>
+  <ellipse cx="244" cy="204" rx="60" ry="42" fill="#fff8d2" opacity=".22"/>
+  <path d="M247 459 L355 459 L378 565 L226 565 Z" fill="url(#m)"/>
+  <path d="M143 555 L211 514 L266 538 L317 502 L396 530 L465 604 L424 679 L334 659 L260 695 L157 669 L112 619 Z" fill="url(#r)"/>
+  <path d="M131 616 L205 576 L259 596 M260 695 L286 620 L390 553 M334 659 L416 617" fill="none" stroke="#8f9098" stroke-opacity=".28" stroke-width="7"/>
+  <path d="M186 681 H416 L391 744 H213 Z" fill="#0a0a0e" stroke="#55565d" stroke-width="5"/>
+  <rect x="236" y="696" width="132" height="29" rx="6" fill="#171719" stroke="#d9ae4a" stroke-opacity=".5"/>
+  <text x="302" y="716" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" letter-spacing="2.6" fill="#f4cd68">PSC · 2026</text>
+</g>
+</svg>

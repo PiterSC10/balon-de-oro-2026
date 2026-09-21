@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pitersc10.github.io/balon-de-oro-2026/sitemap.xml
